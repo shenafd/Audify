@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c4aad243ded941d09152683705b25ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphere: {fileID: 5044477032791154020, guid: 49d83b3f3bc3d420cae643913dc1c02b, type: 3}
+  - cube: {instanceID: 0}
+  - capsule: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - correctClip: {instanceID: 0}
+  - incorrectClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
